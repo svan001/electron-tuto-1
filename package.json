@@ -1,0 +1,22 @@
+{
+  "name": "electron-tuto-1",
+  "version": "1.0.0",
+  "description": "Repository de Tutorial 1 d'application electron avancé",
+  "main": "index.js",
+  "scripts": {
+    "electron": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svan001/electron-tuto-1.git"
+  },
+  "author": "Stephane G",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svan001/electron-tuto-1/issues"
+  },
+  "homepage": "https://github.com/svan001/electron-tuto-1#readme",
+  "dependencies": {
+    "electron": "^2.0.4"
+  }
+}
