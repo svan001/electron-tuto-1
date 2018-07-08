@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/svan001/electron-tuto-1#readme",
   "dependencies": {
-    "electron": "^2.0.4"
+    "electron": "^2.0.4",
+    "fluent-ffmpeg": "^2.1.2"
   }
 }
