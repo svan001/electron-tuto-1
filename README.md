@@ -1,6 +1,6 @@
 # electron-tuto-1
 
-Repository de Tutorial 1 d'application electron avancé
+Tutorial 1 d'application electron avancé : utilise ffmpeg pour déterminer la taille d'une vidéo et l'afficher. 
 
 ## Linux install troubleshooting
 
